@@ -57,6 +57,8 @@ in at least 4 of 5 tries.
 
 ## 4. Something about your chunks
 
+My chunck should always be about on of the cities in the city guides. 
+
 <!-- YOU WRITE THIS ONE.
 
      How would you know if your chunks were the right size? Name something
@@ -72,12 +74,14 @@ in at least 4 of 5 tries.
 
 
 **Why this target:**
-
+Because all the documents in the city_guides corpus are about the cities. The is no part that is not about a city
 
 
 ---
 
 ## 5. Your choice
+
+For questions that we can find answers in two sections, label no more than the 2 section as references when giving answers
 
 <!-- YOU WRITE THIS ONE TOO.
 
@@ -91,7 +95,7 @@ in at least 4 of 5 tries.
 
 **Why this target:**
 
-
+We want to only answer with references. the number of section refrenced should be equl or less than the number of answers
 
 ---
 
